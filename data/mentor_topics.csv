@@ -1,0 +1,26 @@
+Module,Topics,Dr. Dakshinamurthy Kolluru,Dr. Sridhar Pappu,Dr. Surya Kompalli,Dr. Kishore Konda,Dr. Praphul Chandra,Dr. Manoj Duse,Dr. Anand Narasimhamurthy,Dr. Rohit Lotlikar,Dr. Sreerama Murthy,Dr. Manish Gupta,Dr. Manoj Chinnakotla,Dr. Anand Jayaraman
+CSE 7315c,Foundations of Probability and Statistics for Data Science,Yes,Yes,,,Yes,Yes,Yes,Yes,,,,Yes
+CSE 7302c,Linear Regression,Yes,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,,,Yes
+CSE 7302c,Logistic Regression,Yes,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,,,Yes
+CSE 7302c,Time Series,Yes,Yes,,,Yes,Yes,Yes,Yes,Yes,,,Yes
+CSE 7302c,PCA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,,Yes
+CSE 7302c,Regularization,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+CSE 7302c,NaiveBayes,Yes,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+CSE 7305c,Clustering,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+CSE 7305c,Decision Trees,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+CSE 7305c,AssociationRules,Yes,Yes,Yes,,Yes,Yes,,Yes,Yes,Yes,Yes,
+CSE 7305c,KNN+CF,Yes,,Yes,,Yes,Yes,,Yes,Yes,Yes,Yes,
+CSE 7305c,SVM,Yes,,Yes,,Yes,Yes,,Yes,Yes,Yes,Yes,
+CSE 7305c,Ensembles,Yes,,Yes,,Yes,Yes,,Yes,Yes,Yes,Yes,
+CSE 7321c-A,ANN,Yes,,Yes,Yes,Yes,,,Yes,Yes,Yes,Yes,
+CSE 7321c-A,DL,Yes,,Yes,Yes,Yes,,,Yes,Yes,Yes,Yes,
+CSE 7321c-A,CNN,Yes,,Yes,Yes,Yes,,,Yes,Yes,Yes,Yes,
+CSE 7321c-A,RNN,Yes,,Yes,Yes,Yes,,,Yes,Yes,Yes,Yes,
+CSE 7321c-B,LinearProg,Yes,,Yes,,Yes,Yes,,Yes,Yes,,,
+CSE 7321c-B,MS&GeneticAlgo,Yes,,Yes,,Yes,Yes,,Yes,Yes,,,
+CSE 7124c,Text Mining & classification,Yes,,Yes,,,,,,Yes,Yes,,
+CSE 7124c,Search & PageRank,Yes,, ,,,,,,Yes,Yes,,
+CSE 7322c,Big Data,,,Yes,,,Yes,,,Yes,,,
+CSE 7120c,Art and Science of data viz,Yes,Yes,,,,Yes,,,,,,
+,Blockchain,,,,,Yes,,,,,,,
+,Crypto currencies,,,,,,,,,,,,Yes

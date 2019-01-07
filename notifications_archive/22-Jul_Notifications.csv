@@ -1,0 +1,54 @@
+,dsEventId,mentorEventId,Date,Batch,Module,Topic,Mentor,MentorEmail,AttendeeList,MentorDetails,DSContact,ROTe,ROTeDay,ROTeTopics,
+0,69rvuaoi48t4igdvmah0taun2o,s50eml0bqt9v46phto4cjuns54,2018-07-21,PGP43-HYD,CSE 7321c - AI and Decision Sciences,Linear Programming,Dr. Surya Kompalli,surya.kompalli@insofe.edu.in,"[{'email': 'jagannadharao.basa@insofe.edu.in'}, {'email': 'harshit.lamba@insofe.edu.in'}, {'email': 'sagar.patel@insofe.edu.in'}]","Dr. Surya Kompalli 
+surya.kompalli@insofe.edu.in - 9989780170","Jagan B - jagannadharao.basa@insofe.edu.in  - 9989344300
+Harshit - harshit.lamba@insofe.edu.in  - 9158873720
+SagarPatel - sagar.patel@insofe.edu.in - 9429830337",(Day 25 Topics) CSE 7124c,Day 25,"Text mining - TF-IDF, Matrix factorization, SVD",
+1,kijv7r40gluu5dfkin4ha9uf08,7dcpfl0pkk650uhafgarof6ui0,2018-07-22,PGP43-HYD,CSE 7321c - AI and Decision Sciences,"MS, GA",Dr. Rohit Lotlikar,rohit.lotlikar@insofe.edu.in,"[{'email': 'jagannadharao.basa@insofe.edu.in'}, {'email': 'harshit.lamba@insofe.edu.in'}, {'email': 'sagar.patel@insofe.edu.in'}]","Dr. Rohit Lotlikar 
+rohit.lotlikar@insofe.edu.in - 9886111820","Jagan B - jagannadharao.basa@insofe.edu.in  - 9989344300
+Harshit - harshit.lamba@insofe.edu.in  - 9158873720
+SagarPatel - sagar.patel@insofe.edu.in - 9429830337",(Day 26 Topics) CSE 7124c,Day 26,"Page rank(1 hrs), Text classification and Basics of Sentiment analysis",
+2,polfbnd02jeaivnfu5v61e5gtk,,2018-07-22,PGP40-HYD,CSE 7323c - Building End-to-End Data Science Applications,,,,"[{'email': 'manasmohan.mishra@insofe.edu.in'}, {'email': 'gautham.peddireddy@insofe.edu.in'}, {'email': 'ramesh.melapu@insofe.edu.in'}]",,"Manas - manasmohan.mishra@insofe.edu.in - 8501943811
+Gautam - gautham.peddireddy@insofe.edu.in  - 9966667157
+RameshM - ramesh.melapu@insofe.edu.in - 9000169678",(Day 39 Topics) CSE 7322c,Day 39,,
+3,p7dm0iha28jciffa7vskn3u4n8,h0lej418je3fnbecjukg1g6c2o,2018-07-21,PGP44-BLR,CSE 7302c - Statistics and Probability in Decision Modeling,Time series,Dr. Anand Jayaraman,anand.jayaraman@insofe.edu.in,"[{'email': 'chaithanya.sagala@insofe.edu.in'}, {'email': 'tarunkumar.wuyyuru@insofe.edu.in'}, {'email': 'mahidhar.vydyam@insofe.edu.in'}]","Dr. Anand Jayaraman 
+anand.jayaraman@insofe.edu.in - 9959466177","Chaitanya - chaithanya.sagala@insofe.edu.in - 8686034029
+Tarun K W - tarunkumar.wuyyuru@insofe.edu.in - 9959971076
+Mahidhar - mahidhar.vydyam@insofe.edu.in  - 9701792267",(Day 11 Topics) CSE 7302c,Day 11,"Multiple Linear Regression; regularization (Feature selection); Step AIC, VIF",
+4,pjpl5ah1hb07v1vriuujsp4j9k,25rdldo5rp8d5442673fiq4p3g,2018-07-22,PGP44-BLR,CSE 7305c - Methods and Algorithms in Machine Learning,Introduction to ML, Clustering,Dr. Praphul Chandra,praphul.chandra@insofe.edu.in,"[{'email': 'chaithanya.sagala@insofe.edu.in'}, {'email': 'seema.basantani@insofe.edu.in'}, {'email': 'tarunkumar.wuyyuru@insofe.edu.in'}]","Dr. Praphul Chandra 
+praphul.chandra@insofe.edu.in - 9986073402","Chaitanya - chaithanya.sagala@insofe.edu.in - 8686034029
+Seema B - seema.basantani@insofe.edu.in - 9986008639
+Tarun K W - tarunkumar.wuyyuru@insofe.edu.in - 9959971076",(Day 12 Topics) CSE 7302c,Day 12,"Logistic regression, Naïve Bayes"
+5,hoenee6ji9lppma8inpgfadk04,,2018-07-21,PGP42-BLR,CSE 7323c - Building End-to-End Data Science Applications,,,,"[{'email': 'kalpa.subbaiah@insofe.edu.in'}, {'email': 'yogesh.kondadasula@insofe.edu.in'}, {'email': 'akhilreddy.sheri@insofe.edu.in'}, {'email': 'pavan.wale@insofe.edu.in'}]",,"Kalpa K S - kalpa.subbaiah@insofe.edu.in - 9900120324
+Yogesh - yogesh.kondadasula@insofe.edu.in  - 9676600283
+Akhil R S - akhilreddy.sheri@insofe.edu.in - 8106617082
+Pavan W - pavan.wale@insofe.edu.in - 7259933625",(Day 25 Topics) CSE 7322c,Day 25,,
+6,698ba0mq4d3c7vmcuuftnkn5qs,,2018-07-22,PGP42-BLR,CSE 7323c - Building End-to-End Data Science Applications,,,,"[{'email': 'kalpa.subbaiah@insofe.edu.in'}, {'email': 'yogesh.kondadasula@insofe.edu.in'}, {'email': 'akhilreddy.sheri@insofe.edu.in'}]",,"Kalpa K S - kalpa.subbaiah@insofe.edu.in - 9900120324
+Yogesh - yogesh.kondadasula@insofe.edu.in  - 9676600283
+Akhil R S - akhilreddy.sheri@insofe.edu.in - 8106617082",(Day 26 Topics) CSE 7322c,Day 26,,
+7,dvlpvhaqvg7ee5i514ejknhu54,9ceg5itlsn1fsmsbkemlvt6svk,2018-07-21,PGP45-HYD,CSE 7302c - Statistics and Probability in Decision Modeling,"PCA, Regularization and Naive Bayes Classifier",Dr. Rohit Lotlikar,rohit.lotlikar@insofe.edu.in,"[{'email': 'maheshkumar.duvvarapu@insofe.edu.in'}, {'email': 'pavan.srungaram@insofe.edu.in'}, {'email': 'bhamathi.bulusu@insofe.edu.in'}]","Dr. Rohit Lotlikar 
+rohit.lotlikar@insofe.edu.in - 9886111820","Mahesh D - maheshkumar.duvvarapu@insofe.edu.in  - 9502485049
+Pawan S - pavan.srungaram@insofe.edu.in  - 9493107946
+Vagdevi B - bhamathi.bulusu@insofe.edu.in  - 9000519090",(Day 11 Topics) CSE 7302c,Day 11,"Multiple linear regression. (Feature selection: StepAIC, VIF)",
+8,40bu0llnkqhbheu4h8dvegkdnk,t2jjsto5u2qgjqdlnuqb35icno,2018-07-22,PGP45-HYD,CSE 7302c - Statistics and Probability in Decision Modeling,Time Series,Dr. Anand Jayaraman,anand.jayaraman@insofe.edu.in,"[{'email': 'maheshkumar.duvvarapu@insofe.edu.in'}, {'email': 'pavan.srungaram@insofe.edu.in'}, {'email': 'vivek.bakaraju@insofe.edu.in'}]","Dr. Anand Jayaraman 
+anand.jayaraman@insofe.edu.in - 9959466177","Mahesh D - maheshkumar.duvvarapu@insofe.edu.in  - 9502485049
+Pawan S - pavan.srungaram@insofe.edu.in  - 9493107946
+Vivek - vivek.bakaraju@insofe.edu.in - 8769640561",(Day 12 Topics) CSE 7302c,Day 12,Logistic regression ,
+9,6bleeelft988apo8nc5gdiitok,jev4cjbbmtulv5entc34g66b2s,2018-07-21,PGP46-HYD,CSE 7302c - Statistics and Probability in Decision Modeling,(Feature reduction) Required math for PCA. PCA. Naïve Bayes. Introduction to Time series,Dr. Sridhar Pappu,sridhar.pappu@insofe.edu.in,"[{'email': 'archana.moturi@insofe.edu.in'}, {'email': 'shivaprasad.koyyada@insofe.edu.in'}]","Dr. Sridhar Pappu 
+sridhar.pappu@insofe.edu.in - 9949621196","Archana - archana.moturi@insofe.edu.in  - 9959086888
+Shivaprasad - shivaprasad.koyyada@insofe.edu.in - 9346962912",(Day 11 Topics) CSE 7302c,Day 11,"Multiple linear regression. (Feature selection: StepAIC, VIF)",
+10,o3md7o97dq0l0lnf3afb5ckthg,b7h0pdnu499soj5acvpphjtgeo,2018-07-22,PGP46-HYD,CSE 7302c - Statistics and Probability in Decision Modeling,Time series,Dr. Sridhar Pappu,sridhar.pappu@insofe.edu.in,"[{'email': 'archana.moturi@insofe.edu.in'}, {'email': 'shivaprasad.koyyada@insofe.edu.in'}, {'email': 'bharath.narla@insofe.edu.in'}]","Dr. Sridhar Pappu 
+sridhar.pappu@insofe.edu.in - 9949621196","Archana - archana.moturi@insofe.edu.in  - 9959086888
+Shivaprasad - shivaprasad.koyyada@insofe.edu.in - 9346962912
+Bharath - bharath.narla@insofe.edu.in - 7799517190",(Day 12 Topics) CSE 7302c,Day 12,"Logistic regression, regularization (Feature selection); ",
+11,0igk5s18rramgbblesn5k8l3n4,,2018-07-21,PGP41-HYD,CSE 7323c - Building End-to-End Data Science Applications,,,,"[{'email': 'anjaneyalu.thippaiah@insofe.edu.in'}, {'email': 'yugandhar@insofe.edu.in'}, {'email': 'Jayant.mulmoodi@insofe.edu.in'}]",,"Anjaneyalu - anjaneyalu.thippaiah@insofe.edu.in - 9481524004
+Yugandhar - yugandhar@insofe.edu.in  - 9959422248
+Jayant - Jayant.mulmoodi@insofe.edu.in - 9885974606",(Day 39 Topics) CSE 7322c,Day 39,,
+12,fcrcde5aj7so16n97jtqur2mjg,,2018-07-22,PGP41-HYD,CSE 7323c - Building End-to-End Data Science Applications,,,,"[{'email': 'anjaneyalu.thippaiah@insofe.edu.in'}, {'email': 'yugandhar@insofe.edu.in'}, {'email': 'Jayant.mulmoodi@insofe.edu.in'}]",,"Anjaneyalu - anjaneyalu.thippaiah@insofe.edu.in - 9481524004
+Yugandhar - yugandhar@insofe.edu.in  - 9959422248
+Jayant - Jayant.mulmoodi@insofe.edu.in - 9885974606", ,,,
+13,d3ad49h2f2qn03l1bidk79drkg,,2018-07-21,PGP39-BLR,PHD: Hackathon,,,,"[{'email': 'jaywardhan.sawale@insofe.edu.in'}, {'email': 'chetankumar.naik@insofe.edu.in'}, {'email': 'manoj.akella@insofe.edu.in'}]",,"Jayawardhan - jaywardhan.sawale@insofe.edu.in - 7838383955
+Chetan - chetankumar.naik@insofe.edu.in - 9538985462
+Manoj A - manoj.akella@insofe.edu.in - 0", ,,,
+14,h1itb2ffd1fsj7bpt9nln7iqek,,2018-07-22,PGP39-BLR,PHD: Hackathon,,,,"[{'email': 'jaywardhan.sawale@insofe.edu.in'}, {'email': 'chetankumar.naik@insofe.edu.in'}, {'email': 'manoj.akella@insofe.edu.in'}]",,"Jayawardhan - jaywardhan.sawale@insofe.edu.in - 7838383955
+Chetan - chetankumar.naik@insofe.edu.in - 9538985462
+Manoj A - manoj.akella@insofe.edu.in - 0", ,,,

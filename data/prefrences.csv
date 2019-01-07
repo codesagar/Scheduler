@@ -1,0 +1,17 @@
+Competency,Near,Internal,Rank,Score
+Expert,1,1,1,15
+Proficient,1,1,2,14
+Expert,1,0,3,13
+Proficient,1,0,4,12
+Expert,0,1,5,11
+Proficient,0,1,6,10
+Comfortable,1,1,7,9
+Comfortable,1,0,8,12
+Expert,0,0,9,7
+Proficient,0,0,10,6
+Comfortable,0,1,11,5
+Comfortable,0,0,12,4
+Not-Comfortable,1,1,13,2
+Not-Comfortable,1,0,14,1
+Not-Comfortable,0,1,15,1
+Not-Comfortable,0,0,16,0

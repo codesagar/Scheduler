@@ -1,0 +1,102 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Aug  9 15:56:40 2018
+
+@author: sagar
+"""
+
+temp_id
+from datetime import datetime, time, date
+dt=day
+ts = time(9,0,0)
+te = time(18,0,0)
+event = {
+  'start': {
+  'dateTime': datetime.combine(dt,ts).isoformat(),
+    'timeZone': 'Asia/Calcutta',
+  },
+  'end': {
+  'dateTime': datetime.combine(dt,te).isoformat(),
+    'timeZone': 'Asia/Calcutta',
+  },
+}
+
+updated_event = google_service.events().update(calendarId='primary', eventId=temp_id, body=event).execute()
+
+
+
+
+temp_frame.columns
+
+event_to_modify = temp_frame.iloc[0]['dsEventId']
+
+
+for idx, event in t_frame.iterrows():
+    if event['Mentor'] in ['None','',' ']:
+        event_to_modify = event['dsEventId']
+        new_topic = event['Topic']
+        new_batch = event['Batch']
+        new_module = event['Module']
+        new_mentor = event['Mentor']
+        new_attendees = event['AttendeeList']
+        temp_summary = (new_topic + " @ " if new_topic not in [None] else "") + "Batch" + new_batch
+        temp_description = "\n".join(["Batch = " + new_batch, "Module = " + new_module, ("Mentor = " + new_mentor if new_mentor not in ['Data Scientists'] else ''), ("Topics = " + new_topic if new_topic not in [None] else "")])
+        dt = event['Date']
+        
+        if dt == date(2018,8,11): 
+            print(dt)
+            ts = time(9,0,0)
+            te = time(18,0,0)
+    
+            new_event = {
+              'summary': temp_summary,
+              'description': temp_description,
+              'start': {
+              'dateTime': datetime.combine(dt,ts).isoformat(),
+                'timeZone': 'Asia/Calcutta',
+              },
+              'end': {
+              'dateTime': datetime.combine(dt,te).isoformat(),
+                'timeZone': 'Asia/Calcutta',
+              },
+              'attendees': new_attendees
+            }
+    
+            updated_event = google_service.events().update(calendarId='primary', eventId=event_to_modify, body=new_event).execute()        
+            t_frame.iloc[idx]['dsEventId'] = updated_event.get('id')
+
+
+new_topic = temp_frame.iloc[0]['Topic']
+new_batch = temp_frame.iloc[0]['Batch']
+new_module = temp_frame.iloc[0]['Module']
+new_mentor = temp_frame.iloc[0]['Mentor']
+new_attendees = temp_frame.iloc[0]['AttendeeList']
+
+temp_summary = (new_topic + " @ " if new_topic not in [None] else "") + "Batch" + new_batch
+temp_description = "\n".join(["Batch = " + new_batch, "Module = " + new_module, ("Mentor = " + new_mentor if new_mentor not in ['Data Scientists'] else ''), ("Topics = " + new_topic if new_topic not in [None] else "")])
+
+temp_summary = "Updated ! " + temp_summary
+ts = time(9,0,0)
+te = time(18,0,0)
+
+new_event = {
+  'summary': temp_summary,
+  'description': temp_description,
+  'start': {
+  'dateTime': datetime.combine(dt,ts).isoformat(),
+    'timeZone': 'Asia/Calcutta',
+  },
+  'end': {
+  'dateTime': datetime.combine(dt,te).isoformat(),
+    'timeZone': 'Asia/Calcutta',
+  },
+  'attendees': new_attendees
+}
+
+updated_event = google_service.events().update(calendarId='primary', eventId=event_to_modify, body=new_event).execute()
+
+updated_event_id = updated_event.get('id')
+
+t_frame = event_frame.iloc[:-1]
+

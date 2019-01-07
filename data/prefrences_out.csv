@@ -1,0 +1,17 @@
+"Competency","Near","Internal","Rank"
+"Expert",1,1,1
+"Proficient",1,1,2
+"Expert",1,0,3
+"Proficient",1,0,4
+"Expert",0,1,5
+"Proficient",0,1,6
+"Comfortable",1,1,7
+"Comfortable",1,0,8
+"Expert",0,0,9
+"Proficient",0,0,10
+"Comfortable",0,1,11
+"Comfortable",0,0,12
+"Not-Comfortable",1,1,13
+"Not-Comfortable",1,0,14
+"Not-Comfortable",0,1,15
+"Not-Comfortable",0,0,16
