@@ -6,4 +6,4 @@ Resource allocation using greedy heuristics
 - B) Tableau dashboard
 - C) Calendar notifications
 
-**Refer Tech_Talk.pdf for a brief product and logic walkthrough.*
+**Refer Tech_Talk.pdf for a brief product and logic walkthrough.**
